@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="./card-stack.css">
+
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+    <script src="http://localhost:8080/bundle.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+            integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+            crossorigin="anonymous"></script>        
+    <script src="./card-stack.js"></script>
+</head>
+<body>
+    <div id="viewport">
+        <ul class="stack" id="">
+            <ul id="love"></ul>
+            Talking to the Rest of You
+            <script>
+                var urls = [];
+
+                $.getJSON("picUrls.json", function (data) {
+                    $.each(data, function (index, value) {
+                        //console.log(index,'\t',value);
+                        //urls.push({ index : value });
+                        urls.push(value);
+
+                    });
+                    //console.log(urls[Math.floor(Math.random() * urls.length)].toString());
+                    function myFunc() {
+                        for (var i =0; i<50;i++){
+                            var el = document.createElement('LI');
+                            el.innerHTML = '<img src='
+                            +urls[Math.floor(Math.random() * urls.length)].toString()
+                            +' style="vertical-align:text-top">';
+                            document.getElementById('love').appendChild(el);
+                        }
+                    }
+                    window.onload = myFunc();
+                });
+            </script>
+        </ul>
+    </div>
+    <div id="source">
+        <p>Swipe LEFT if you do NOT like the image.<br>
+           Swipe RIGHT if you DO like the image.</p>
+    </div>
+</body>
+
+</html>

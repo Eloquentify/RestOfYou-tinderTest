@@ -1,0 +1,216 @@
+XML Parsing Error: syntax error
+Location: file:///Users/EUGENE/Documents/neuroscienceandart/tinder/swing/examples_forProject/card-stack/picUrls.json
+Line Number 1, Column 1:
+picUrls.json:1:1
+Loading failed for the <script> with source “file:///ko_KR/sdk.js#xfbml=1&version=v2.7”.
+index.html:1
+Use of getPreventDefault() is deprecated.  Use defaultPrevented instead.
+liner-jquery.js:4845:28
+out : https://unsplash.com/photos/flsFQ3UTuKw/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 185
+card-stack.js:64:7
+out : https://unsplash.com/photos/EF6z_6R94zQ/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 143
+card-stack.js:64:7
+out : https://unsplash.com/photos/gO0byDPgxzI/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 160
+card-stack.js:64:7
+out : https://unsplash.com/photos/azKvSobkYog/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 194
+card-stack.js:64:7
+out : https://unsplash.com/photos/zAqtmSpBYQ8/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 141
+card-stack.js:64:7
+out : https://unsplash.com/photos/xdwQ_Eq2b-Y/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 190
+card-stack.js:64:7
+out : https://unsplash.com/photos/ZndBakxQHXE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 167
+card-stack.js:64:7
+out : https://unsplash.com/photos/C9_FhbRon3g/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 156
+card-stack.js:64:7
+in : https://unsplash.com/photos/L4XODP8LV0U/download  :  Symbol(LEFT) direction.
+card-stack.js:42:9
+dragging time 101
+card-stack.js:64:7
+out : https://unsplash.com/photos/L4XODP8LV0U/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 185
+card-stack.js:64:7
+out : https://unsplash.com/photos/YS_51ncQL5o/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 162
+card-stack.js:64:7
+out : https://unsplash.com/photos/zc4zlco207A/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 247
+card-stack.js:64:7
+out : https://unsplash.com/photos/g9fw6CVsHlE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 207
+card-stack.js:64:7
+out : https://unsplash.com/photos/8VPdkhfyfqo/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 213
+card-stack.js:64:7
+out : https://unsplash.com/photos/eyo2CqrtSe8/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 173
+card-stack.js:64:7
+out : https://unsplash.com/photos/rNNmnC67h7g/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 213
+card-stack.js:64:7
+out : https://unsplash.com/photos/K1eZHFrUfiE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 611
+card-stack.js:64:7
+out : https://unsplash.com/photos/wegOz1SEFdE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 179
+card-stack.js:64:7
+out : https://unsplash.com/photos/f-UkGU8GcWo/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 157
+card-stack.js:64:7
+out : https://unsplash.com/photos/6zH1QX43ZUM/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 178
+card-stack.js:64:7
+out : https://unsplash.com/photos/eW9H6Udi2Cw/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 140
+card-stack.js:64:7
+out : https://unsplash.com/photos/EwE4tBYh3ms/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 527
+card-stack.js:64:7
+out : https://unsplash.com/photos/xdwQ_Eq2b-Y/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 150
+card-stack.js:64:7
+out : https://unsplash.com/photos/FivolqHz3bg/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 210
+card-stack.js:64:7
+out : https://unsplash.com/photos/rNNmnC67h7g/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 200
+card-stack.js:64:7
+out : https://unsplash.com/photos/18wTc9ndRl0/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 184
+card-stack.js:64:7
+out : https://unsplash.com/photos/FivolqHz3bg/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 221
+card-stack.js:64:7
+out : https://unsplash.com/photos/CwH2-7IPWEE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 167
+card-stack.js:64:7
+out : https://unsplash.com/photos/MzSqFPLo8CE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 172
+card-stack.js:64:7
+out : https://unsplash.com/photos/flsFQ3UTuKw/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 213
+card-stack.js:64:7
+out : https://unsplash.com/photos/PM_VwL2ypes/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 166
+card-stack.js:64:7
+out : https://unsplash.com/photos/2Zyydg0lDhs/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 181
+card-stack.js:64:7
+out : https://unsplash.com/photos/q_RRL6vmqSg/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 176
+card-stack.js:64:7
+out : https://unsplash.com/photos/f-UkGU8GcWo/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 179
+card-stack.js:64:7
+out : https://unsplash.com/photos/sMncX9OLr8o/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 201
+card-stack.js:64:7
+out : https://unsplash.com/photos/QGMvex2d-0Q/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 186
+card-stack.js:64:7
+out : https://unsplash.com/photos/QkKUE5_QOxk/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 170
+card-stack.js:64:7
+out : https://unsplash.com/photos/GNyFiG_6GWI/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 174
+card-stack.js:64:7
+out : https://unsplash.com/photos/2Zyydg0lDhs/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 163
+card-stack.js:64:7
+in : https://unsplash.com/photos/yJz6OSS_63c/download  :  Symbol(INVALID) direction.
+card-stack.js:42:9
+dragging time 497
+card-stack.js:64:7
+out : https://unsplash.com/photos/yJz6OSS_63c/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 138
+card-stack.js:64:7
+out : https://unsplash.com/photos/wegOz1SEFdE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 142
+card-stack.js:64:7
+out : https://unsplash.com/photos/eyo2CqrtSe8/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 155
+card-stack.js:64:7
+out : https://unsplash.com/photos/ZlgEpk_BWt0/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 125
+card-stack.js:64:7
+out : https://unsplash.com/photos/HM731qUoUas/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 117
+card-stack.js:64:7
+out : https://unsplash.com/photos/MzSqFPLo8CE/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 148
+card-stack.js:64:7
+out : https://unsplash.com/photos/iI4sR_nkkbc/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 139
+card-stack.js:64:7
+out : https://unsplash.com/photos/dBc8nCqNg5E/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 150
+card-stack.js:64:7
+out : https://unsplash.com/photos/OFpzBycm3u0/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 141
+card-stack.js:64:7
+out : https://unsplash.com/photos/C9_FhbRon3g/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 312
+card-stack.js:64:7
+out : https://unsplash.com/photos/bCMDO_yewH0/download  :  Symbol(RIGHT) direction.
+card-stack.js:34:9
+dragging time 167
+card-stack.js:64:7
+out : https://unsplash.com/photos/L4XODP8LV0U/download  :  Symbol(LEFT) direction.
+card-stack.js:34:9
+dragging time 143
+card-stack.js:64:7
